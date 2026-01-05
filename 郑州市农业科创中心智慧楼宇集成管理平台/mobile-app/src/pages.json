@@ -1,0 +1,216 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "工作台"
+      }
+    },
+    {
+      "path": "pages/login/index",
+      "style": {
+        "navigationBarTitleText": "登录"
+      }
+    },
+    {
+      "path": "pages/alarm/index",
+      "style": {
+        "navigationBarTitleText": "报警管理"
+      }
+    },
+    {
+      "path": "pages/alarm/detail",
+      "style": {
+        "navigationBarTitleText": "报警详情"
+      }
+    },
+    {
+      "path": "pages/monitor/index",
+      "style": {
+        "navigationBarTitleText": "监控管理"
+      }
+    },
+    {
+      "path": "pages/repair/index",
+      "style": {
+        "navigationBarTitleText": "故障报修"
+      }
+    },
+    {
+      "path": "pages/repair/create",
+      "style": {
+        "navigationBarTitleText": "提交报修"
+      }
+    },
+    {
+      "path": "pages/workorder/index",
+      "style": {
+        "navigationBarTitleText": "工单管理"
+      }
+    },
+    {
+      "path": "pages/workorder/detail",
+      "style": {
+        "navigationBarTitleText": "工单详情"
+      }
+    },
+    {
+      "path": "pages/inspection/index",
+      "style": {
+        "navigationBarTitleText": "巡检管理"
+      }
+    },
+    {
+      "path": "pages/inspection/execute",
+      "style": {
+        "navigationBarTitleText": "执行巡检"
+      }
+    },
+    {
+      "path": "pages/device/index",
+      "style": {
+        "navigationBarTitleText": "设备台账"
+      }
+    },
+    {
+      "path": "pages/device/detail",
+      "style": {
+        "navigationBarTitleText": "设备详情"
+      }
+    },
+    {
+      "path": "pages/visitor/index",
+      "style": {
+        "navigationBarTitleText": "访客管理"
+      }
+    },
+    {
+      "path": "pages/visitor/invite",
+      "style": {
+        "navigationBarTitleText": "邀请访客"
+      }
+    },
+    {
+      "path": "pages/meeting/index",
+      "style": {
+        "navigationBarTitleText": "会议预约"
+      }
+    },
+    {
+      "path": "pages/meeting/book",
+      "style": {
+        "navigationBarTitleText": "预约会议室"
+      }
+    },
+    {
+      "path": "pages/exhibition/index",
+      "style": {
+        "navigationBarTitleText": "展厅预约"
+      }
+    },
+    {
+      "path": "pages/utility/index",
+      "style": {
+        "navigationBarTitleText": "水电缴费"
+      }
+    },
+    {
+      "path": "pages/access/index",
+      "style": {
+        "navigationBarTitleText": "人员通行"
+      }
+    },
+    {
+      "path": "pages/parking/index",
+      "style": {
+        "navigationBarTitleText": "停车管理"
+      }
+    },
+    {
+      "path": "pages/attendance/index",
+      "style": {
+        "navigationBarTitleText": "考勤打卡"
+      }
+    },
+    {
+      "path": "pages/complaint/index",
+      "style": {
+        "navigationBarTitleText": "投诉建议"
+      }
+    },
+    {
+      "path": "pages/complaint/create",
+      "style": {
+        "navigationBarTitleText": "提交投诉"
+      }
+    },
+    {
+      "path": "pages/notice/index",
+      "style": {
+        "navigationBarTitleText": "园区公告"
+      }
+    },
+    {
+      "path": "pages/notice/detail",
+      "style": {
+        "navigationBarTitleText": "公告详情"
+      }
+    },
+    {
+      "path": "pages/activity/index",
+      "style": {
+        "navigationBarTitleText": "园区活动"
+      }
+    },
+    {
+      "path": "pages/activity/detail",
+      "style": {
+        "navigationBarTitleText": "活动详情"
+      }
+    },
+    {
+      "path": "pages/user/index",
+      "style": {
+        "navigationBarTitleText": "个人中心"
+      }
+    }
+  ],
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabbar/home.svg",
+        "selectedIconPath": "static/tabbar/home-active.svg",
+        "text": "工作台"
+      },
+      {
+        "pagePath": "pages/workorder/index",
+        "iconPath": "static/tabbar/workorder.svg",
+        "selectedIconPath": "static/tabbar/workorder-active.svg",
+        "text": "工单"
+      },
+      {
+        "pagePath": "pages/alarm/index",
+        "iconPath": "static/tabbar/alarm.svg",
+        "selectedIconPath": "static/tabbar/alarm-active.svg",
+        "text": "报警"
+      },
+      {
+        "pagePath": "pages/user/index",
+        "iconPath": "static/tabbar/user.svg",
+        "selectedIconPath": "static/tabbar/user-active.svg",
+        "text": "我的"
+      }
+    ]
+  },
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "郑州市农业科创中心智慧楼宇集成管理平台",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  }
+}

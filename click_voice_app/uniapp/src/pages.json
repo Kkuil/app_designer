@@ -1,0 +1,189 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "enablePullDownRefresh": true
+      }
+    },
+    {
+      "path": "pages/createAccount/createAccount",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "创建账号",
+        "navigationBarTextStyle": "#000"
+      }
+    },
+    {
+      "path": "pages/login/login",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "登录"
+      }
+    },
+    {
+      "path": "pages/mine/mine",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTextStyle": "#000"
+      }
+    },
+    {
+      "path": "pages/resetPassword/resetPassword",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "重置密码",
+        "navigationBarTextStyle": "#000"
+      }
+    },
+    {
+      "path": "pages/creation/main",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "创作-主",
+        "navigationStyle": "custom",
+        "navigationBarTextStyle": "#000"
+      }
+    },
+    {
+      "path": "pages/creation/clip",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "动画帧编辑",
+        "navigationBarTextStyle": "#000"
+      }
+    },
+    {
+      "path": "pages/creation/fill",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "创作-颜色填充",
+        "navigationStyle": "custom",
+        "navigationBarTextStyle": "#000"
+      }
+    },
+    {
+      "path": "pages/creation/color-board",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "创作-调色板",
+        "navigationStyle": "custom",
+        "navigationBarTextStyle": "#000"
+      }
+    },
+    {
+      "path": "pages/settings/settings",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "设置",
+        "navigationBarTextStyle": "#000"
+      }
+    },
+    {
+      "path": "pages/profile/profile",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "个人信息",
+        "navigationBarTextStyle": "#000"
+      }
+    },
+    {
+      "path": "pages/client/client",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "联系客服",
+        "navigationBarTextStyle": "#000"
+      }
+    },
+    {
+      "path": "pages/updatePassword/updatePassword",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "修改密码",
+        "navigationBarTextStyle": "#000"
+      }
+    },
+    {
+      "path": "pages/creation/text",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "文字创作",
+        "navigationBarTextStyle": "#000"
+      }
+    },
+    {
+      "path": "pages/updateEmail/updateEmail",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "修改邮箱",
+        "navigationBarTextStyle": "#000"
+      }
+    },
+    {
+      "path": "pages/publishSuccess/publishSuccess",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "",
+        "navigationBarTextStyle": "#000"
+      }
+    },
+    {
+      "path": "pages/feedback/feedback",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "问题反馈",
+        "navigationBarTextStyle": "#000"
+      }
+    },
+    {
+      "path": "pages/publish/publish",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "发布",
+        "navigationBarTextStyle": "#000"
+      }
+    },
+    {
+      "path": "pages/saveSuccess/saveSuccess",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "保存",
+        "navigationBarTextStyle": "#000"
+      }
+    },
+    {
+      "path": "pages/updateAnimation/updateAnimation",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "动画帧编辑",
+        "navigationBarTextStyle": "#000"
+      }
+    },
+    {
+      "path": "pages/community/community",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "社区",
+        "navigationBarTextStyle": "#000"
+      }
+    },
+    {
+      "path": "pages/myDevice/myDevice",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "我的设备",
+        "navigationStyle": "custom",
+        "navigationBarTextStyle": "#000"
+      }
+    }
+  ],
+  "subPackages": [
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#FDD403",
+    "backgroundColor": "#F4F4F4"
+  }
+}

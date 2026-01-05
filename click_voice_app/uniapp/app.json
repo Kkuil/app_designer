@@ -1,0 +1,92 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/Search/Search",
+    "pages/teacher/teacher",
+    "pages/my/my",
+    "pages/product/product",
+    "pages/login/login",
+    "pages/local/local",
+    "pages/Editlocal/Editlocal",
+    "pages/UserInfo/UserInfo",
+    "pages/PointsCollection/PointsCollection",
+    "pages/PointsShop/PointsShop",
+    "pages/GiftDetails/GiftDetails",
+    "pages/ConfirmRedemption/ConfirmRedemption",
+    "pages/gift/gift",
+    "pages/costing/costing",
+    "pages/CostCompleted/CostCompleted",
+    "pages/CaseQuery/CaseQuery",
+    "pages/CaseInfo/CaseInfo",
+    "pages/comment/comment",
+    "pages/OrderDetails/OrderDetails",
+    "pages/TeacherInfo/TeacherInfo",
+    "pages/StudyOrder/StudyOrder",
+    "pages/ProfessionalDetails/ProfessionalDetails",
+    "pages/GoComment/GoComment",
+    "pages/coupon/coupon",
+    "pages/MyCollection/MyCollection",
+    "pages/MyAdmission/MyAdmission",
+    "pages/complaints/complaints",
+    "pages/checkout/checkout",
+    "pages/notification/notification",
+    "pages/ChoiceSchools/ChoiceSchools",
+    "pages/ApplyCase/ApplyCase",
+    "pages/StudyAbroadCloudService/StudyAbroadCloudService",
+    "pages/SchoolInfo/SchoolInfo",
+    "pages/ScientificResearch/ScientificResearch",
+    "pages/Exercitation/Exercitation",
+    "pages/SchollQuery/SchollQuery",
+    "pages/SchollRank/SchollRank",
+    "pages/ApplyProgress/ApplyProgress",
+    "pages/SelectServer/SelectServer",
+    "pages/studyAbroadService/studyAbroadService",
+    "pages/ProductList/ProductList",
+    "pages/ConfirmOrder/ConfirmOrder",
+    "pages/yhxy/yhxy",
+    "pages/TabDetail/TabDetail",
+    "pages/News/News",
+    "pages/Acadamy/Acadamy"
+  ],
+  "subPackages": [
+    {
+      "root": "tn_pages",
+      "pages": [
+        "CustomerService/CustomerService",
+        "CategoryList/CategoryList",
+        "MsgInfo/MsgInfo",
+        "webview/webview",
+        "webview/imgview",
+        "PointRule/PointRule",
+        "GoRefund/GoRefund",
+        "introduction/introduction",
+        "SchoolCase/SchoolCase",
+        "ZyCase/ZyCase",
+        "RefundDetail/RefundDetail",
+        "schedule/schedule",
+        "AllMajor/AllMajor",
+        "AllProfessional/AllProfessional",
+        "InviteFriends/index",
+        "InviteFriends/GetCoupons",
+        "InviteFriends/ActivityRules"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#7FD6F2",
+    "backgroundColor": "#F4F4F4"
+  },
+  "requiredPrivateInfos": [
+    "getLocation"
+  ],
+  "navigateTo": {
+    "externalLink": true
+  },
+  "usingComponents": {},
+  "lazyCodeLoading": "requiredComponents",
+  "componentPlaceholder": {
+    "custom-tab-bar": "view"
+  }
+}

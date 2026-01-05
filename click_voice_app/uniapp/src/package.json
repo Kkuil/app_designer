@@ -1,0 +1,16 @@
+{
+    "id": "week-addMiniprogram",
+    "name": "小程序快速添加指引",
+    "displayName": "小程序快速添加指引",
+    "version": "1.0.0",
+    "description": "小程序添加指引，可适配自定义导航栏",
+    "keywords": [
+        "小程序"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}
